@@ -1,6 +1,9 @@
 # PyMusic
-MusicPlayer written in python Using Tkinter GUI FrameWork
+MusicPlayer written in python Using Tkinter GUI FrameWork.
+
+
 Just simply unzip it 
+
 install all the requirements
 pip install pygame
 pip install mutagen
